@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = {"http://assin4new.s3-website-us-west-2.amazonaws.com","http://localhost:4200"})
+@CrossOrigin(origins = {"http://52.12.77.85","http://localhost:4200"})
 
 @RequestMapping("/api")
 public class AlbumResource {
